@@ -1,0 +1,27 @@
+{
+  "name": "converttemperature",
+  "version": "1.0.0",
+  "description": "desktop application on javascript",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-gran/desktop.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "js"
+  ],
+  "author": "Aristarh Gran <aristarhgran@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-gran/desktop/issues"
+  },
+  "homepage": "https://github.com/a-gran/desktop#readme",
+  "dependencies": {
+    "electron": "^18.0.3"
+  }
+}

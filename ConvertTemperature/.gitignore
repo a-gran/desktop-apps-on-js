@@ -1,0 +1,16 @@
+.vscode/
+.idea/
+.git/
+
+node_modules/
+
+archive/
+info/
+
+TODO.md
+tasks.md
+
+default.json
+
+*.zip
+*.pdf
