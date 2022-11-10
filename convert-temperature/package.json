@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/a-gran/desktop#readme",
   "dependencies": {
-    "electron": "^18.0.3"
+    "electron": "^18.3.7"
   }
 }
